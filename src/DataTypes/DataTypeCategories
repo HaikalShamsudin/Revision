@@ -1,0 +1,29 @@
+The type of Java Programming langguage are divided into two categories: Primitive Types and References Types.
+
+1. Primitive types are the Boolean Type and Numeric Types.
+- Numeric Types are the integral type byte, short, int, long, char and the floating-point types float and double.
+
+2. References types are class types, interface types and array types.
+
+3. There is also a special null type.
+
+
+Data Types in java:
+
+    Primitive:
+        Boolean. (true/false)
+
+        numeric:
+            integral:
+                byte (8 bits). --->>> -128 to 127
+                short (16 bits). --->>> -32,768 to 32,767 (0-2^15-1)
+                char (16 bits). --->>> 0 to 65,535
+                int (32 bits). --->>> -2^31 to 2^31-1
+                long (64 bits). --->>> -2^63 to 2^63-1
+            floating-point:
+                float (32 bits). --->>> +- 3.4028247E+38F
+                double (64 bits).
+    Reference:
+        class.
+        interface.
+        array.

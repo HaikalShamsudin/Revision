@@ -1,0 +1,9 @@
+x = 2
+y = 1
+z = 1
+a = 1
+b = 2
+
+x>a ? (y>b ? y:b)  :  (x>z ? x : z) .  ----> kalau true, baca dari kiri
+conditional operator
+answer = b = 2

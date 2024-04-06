@@ -1,0 +1,20 @@
+| Data Type      | Size (in bits)      | Minimum Value                      | Maximum Value                 |
+|----------------|---------------------|------------------------------------|-------------------------------| 
+| byte           | 8                   | -128                               | 127                           |  
+| short          | 16                  | -32,768                            | 32,767                        |  
+| int            | 32                  | -2,147,438,648                     | 2,147,438,647                 | 
+| long           | 64                  | -9,223,372,036,854,775,808         | 9,223,372,036,854,775,807     |  
+                                                                                                            
+| char           | 16                  | 0                                  | 65,535                        |  
+
+| float          | 32                  | 1.4e-45                            | 3.4028235e38                  |  
+| double         | 64                  | 4.9e-324                           | 1.7976931348623157e308        | 
+
+This is hierachy in data type. from the smallest to the largest. 
+However, floating have the superiority, which is the largest among them.
+
+Concept
+1. Hierachy (Data type in java)
+2. Size by bits
+3. Special behavior (char, float, long), widening narrowing
+4. Superiority (String > floating > integral)

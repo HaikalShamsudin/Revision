@@ -1,0 +1,20 @@
+
+
+Public = Boleh diguna oleh semua class and package di dalam program
+
+Protected = 1. Boleh diguna untuk class yg sama dan package yg sama sahaja
+            2. Kalau nak guna, kena extends subslass, dan guna getter and setter method
+
+Private =  1. Boleh diguna oleh class yg sama sahaja.
+           2. Kalau nak guna, kena pakai getter and setter method.
+
+
+Here's an analogy to understand the difference:
+
+Public: Like a public park, anyone can enter and use the facilities.
+Protected: Like a family recipe, only family members (subclasses) and close neighbors (classes in the same package) can access it.
+Private: Like your bedroom, only you (the class) have access.
+
+
+Getter -->> Accesscor
+Setter -->> Mutator

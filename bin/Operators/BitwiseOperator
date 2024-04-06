@@ -1,0 +1,33 @@
+
+0 -->> False
+1 -->> True
+
+
+Bitwise AND ------>>>   &
+
+0  &  0  =  0
+0  &  1  =  0     >>>   If ONE of the statement is 0 (False), it will return 0 (False)
+1  &  0  =  0     >>>   If BOTH statement is 1 (True), it will return 1 (True)
+1  &  1  =  1
+
+
+Bitwise OR  ------->>>  |
+
+0  |  0  =  0
+1  |  0  =  1     >>>   If ONE of the statement is 1 (True), it will return 1 (True)
+0  |  1  =  1     >>>   If BOTH statement is 0 (False), it will return 0 (False)
+1  |  1  =  1
+
+
+Bitwise XOR  ------>>>  ^
+
+0  ^  0  =  0
+1  ^  0  =  1     >>>  If the BOTH statement are same, it will return 0 (False)
+0  ^  1  =  1     >>>  If BOTH statement are not samae, it will return 1 (True)
+1  ^  1  =  0
+
+
+LOGICAL OPERATOR  (Read from the left)
+
+&&  ---->>>  If BOTH statement is true, it will return true.
+||  ---->>>  If ONE of the statement true, it will return true. 

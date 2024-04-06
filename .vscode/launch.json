@@ -1,0 +1,609 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "IvTwo",
+            "request": "launch",
+            "mainClass": "InterviewRevision.IvTwo",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Good",
+            "request": "launch",
+            "mainClass": "Good",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q2",
+            "request": "launch",
+            "mainClass": "JavaBasic.q2",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "IvOne",
+            "request": "launch",
+            "mainClass": "InterviewRevision.IvOne",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "One",
+            "request": "launch",
+            "mainClass": "InterviewRevision.One",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q70udemy",
+            "request": "launch",
+            "mainClass": "JavaMethods.q70udemy",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q69udemy",
+            "request": "launch",
+            "mainClass": "ArrayAndArrayList.q69udemy",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q60udemy",
+            "request": "launch",
+            "mainClass": "ArrayAndArrayList.q60udemy",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q23udemy",
+            "request": "launch",
+            "mainClass": "ClassAndConstructors.q23udemy",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q20udemy",
+            "request": "launch",
+            "mainClass": "ExceptionHandling.q20udemy",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "ClassDaus.Test",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "dua",
+            "request": "launch",
+            "mainClass": "ExceptionHandling.dua",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "satu",
+            "request": "launch",
+            "mainClass": "ExceptionHandling.satu",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Account",
+            "request": "launch",
+            "mainClass": "ClassDaus.Account",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "ExceptionHandling.Test",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Play3",
+            "request": "launch",
+            "mainClass": "ClassDaus.Play3",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "AccessModifier.StudyPrivate.Class2.Test",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "AccessModifier.StudyProtected.Kelas2.Test",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "AccessModifier.StudyPublic.Class2.Test",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Play2",
+            "request": "launch",
+            "mainClass": "ClassDaus.Play2",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Play",
+            "request": "launch",
+            "mainClass": "ClassDaus.Play",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Playground3",
+            "request": "launch",
+            "mainClass": "ClassDaus.Playground3",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q49",
+            "request": "launch",
+            "mainClass": "Udemy.q49",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q45",
+            "request": "launch",
+            "mainClass": "Udemy.q45",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q24Udemy",
+            "request": "launch",
+            "mainClass": "ClassAndConstructors.q24Udemy",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q23",
+            "request": "launch",
+            "mainClass": "Udemy.q23",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q61udemy",
+            "request": "launch",
+            "mainClass": "Loops.q61udemy",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q55udemy",
+            "request": "launch",
+            "mainClass": "JavaMethods.q55udemy",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q47udemy",
+            "request": "launch",
+            "mainClass": "Loops.q47udemy",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q25Udemy",
+            "request": "launch",
+            "mainClass": "ClassAndConstructors.q25Udemy",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop",
+            "request": "launch",
+            "mainClass": "Loops.NestedLoop",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q4",
+            "request": "launch",
+            "mainClass": "Loops.q4",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q8udemy",
+            "request": "launch",
+            "mainClass": "StringClass.q8udemy",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q41udemy",
+            "request": "launch",
+            "mainClass": "StringClass.q41udemy",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Tester",
+            "request": "launch",
+            "mainClass": "ClassAndConstructors.Tester",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q37",
+            "request": "launch",
+            "mainClass": "Loops.q37",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Pening",
+            "request": "launch",
+            "mainClass": "Loops.Pening",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "StringData",
+            "request": "launch",
+            "mainClass": "DataTypes.StringData",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Udemy10",
+            "request": "launch",
+            "mainClass": "ClassAndConstructors.Udemy10",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Tester",
+            "request": "launch",
+            "mainClass": "DataTypes.Tester",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Loops.Test",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Operators.Test",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Tested",
+            "request": "launch",
+            "mainClass": "DataTypes.Tested",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "TestTest",
+            "request": "launch",
+            "mainClass": "DataTypes.TestTest",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Tester",
+            "request": "launch",
+            "mainClass": "JavaMethods.Tester",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Tested",
+            "request": "launch",
+            "mainClass": "JavaMethods.Tested",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q36",
+            "request": "launch",
+            "mainClass": "Loops.q36",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Example2",
+            "request": "launch",
+            "mainClass": "ArrayAndArrayList.Example2",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
+            "mainClass": "ArrayAndArrayList.Example1",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "JavaBasic.Test",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "DataTypes.Test",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q19",
+            "request": "launch",
+            "mainClass": "ArrayAndArrayList.q19",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "SM",
+            "request": "launch",
+            "mainClass": "JavaMethods.SM",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "JavaMethods.Test",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q10",
+            "request": "launch",
+            "mainClass": "JavaMethods.q10",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q5",
+            "request": "launch",
+            "mainClass": "ClassAndConstructors.q5",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q3",
+            "request": "launch",
+            "mainClass": "ClassAndConstructors.q3",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q2",
+            "request": "launch",
+            "mainClass": "ClassAndConstructors.q2",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q35",
+            "request": "launch",
+            "mainClass": "Loops.q35",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q34",
+            "request": "launch",
+            "mainClass": "Loops.q34",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q31",
+            "request": "launch",
+            "mainClass": "Loops.q31",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q27",
+            "request": "launch",
+            "mainClass": "Loops.q27",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q26",
+            "request": "launch",
+            "mainClass": "Loops.q26",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q25",
+            "request": "launch",
+            "mainClass": "Loops.q25",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q23",
+            "request": "launch",
+            "mainClass": "Loops.q23",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q18",
+            "request": "launch",
+            "mainClass": "Loops.q18",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q17",
+            "request": "launch",
+            "mainClass": "Loops.q17",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q14",
+            "request": "launch",
+            "mainClass": "Loops.q14",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q10",
+            "request": "launch",
+            "mainClass": "Loops.q10",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q9",
+            "request": "launch",
+            "mainClass": "Loops.q9",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q7",
+            "request": "launch",
+            "mainClass": "Loops.q7",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q5",
+            "request": "launch",
+            "mainClass": "Loops.q5",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q3",
+            "request": "launch",
+            "mainClass": "Loops.q3",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q2",
+            "request": "launch",
+            "mainClass": "Loops.q2",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q24",
+            "request": "launch",
+            "mainClass": "DecisionStatements.q24",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q19",
+            "request": "launch",
+            "mainClass": "DecisionStatements.q19",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q2",
+            "request": "launch",
+            "mainClass": "DecisionStatements.q2",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q11",
+            "request": "launch",
+            "mainClass": "Operators.q11",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q2",
+            "request": "launch",
+            "mainClass": "Operators.q2",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q18",
+            "request": "launch",
+            "mainClass": "JavaBasic.q18",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q20",
+            "request": "launch",
+            "mainClass": "JavaBasic.q20",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q3",
+            "request": "launch",
+            "mainClass": "JavaBasic.q3",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q5",
+            "request": "launch",
+            "mainClass": "JavaBasic.q5",
+            "projectName": "Revision_369170d"
+        },
+        {
+            "type": "java",
+            "name": "q1",
+            "request": "launch",
+            "mainClass": "Loops.q1",
+            "projectName": "Revision_369170d"
+        }
+    ]
+}
